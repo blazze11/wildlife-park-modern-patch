@@ -34,6 +34,10 @@ The download replaces these six files:
 
 ![Widescreen resolution choices](resolutions.png)
 
+**2560 × 1440 — maximum fullscreen resolution.**
+
+![2560 × 1440 fullscreen gameplay](fullscreen-2560x1440.png)
+
 **Custom F2 menu for cheats and a keyboard shortcut overview.**
 
 ![Cheats and keyboard shortcuts](cheats-and-keybinds.png)
