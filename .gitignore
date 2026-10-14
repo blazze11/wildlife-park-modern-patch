@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+builds/
+archive/
+assets/
+*.exe
+*.EXE
+*.alb
+*.cont
+*.zip
+*.log
